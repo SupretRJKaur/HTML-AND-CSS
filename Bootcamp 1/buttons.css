@@ -1,0 +1,36 @@
+.addtocart{
+    background-color: rgb(243, 239, 29);
+    height: 35px;
+    width: 200px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 17.5px;
+    cursor: pointer;
+    }
+
+.buynow{
+    background-color: rgb(243, 193, 29);
+    height: 35px;
+    width: 200px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 17.5px;
+    cursor: pointer;
+    }
+.qty{
+    background-color: rgb(189, 188, 186);
+    height: 25px;
+    width: 200px;
+    color: rgb(182, 4, 4);
+    border: none;
+    border-radius: none;
+    cursor: pointer;
+}
+
+.amazon{
+    color: rgb(69, 159, 175)
+
+}
+        
+        
+    
