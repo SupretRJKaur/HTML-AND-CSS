@@ -1,0 +1,160 @@
+.subscribe-button{
+    background-color: rgb(200, 0, 0);
+    height: 35px;
+    width: 105px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 12px;
+    margin-bottom: 12px;
+
+}
+
+.subscribe-button:hover{
+    opacity: 0.8;
+}
+
+
+.tweet-button{
+    background-color: rgb(76, 190, 243);
+    height: 35px;
+    width: 105px;
+    color: white;
+    border: none;
+    border-radius: 17.5px;
+    cursor: pointer;
+    margin-bottom: 12px;
+    box-shadow: 5px 5px 10px black ;
+
+
+}
+
+.join-button{
+    background-color: rgb(224, 231, 235);
+    height: 35px;
+    width: 105px;
+    color: rgb(49, 160, 194);
+    border-color: rgb(49, 160, 194);
+    border-style:solid;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 12px;
+    margin-bottom: 12px;
+    transition: background-color:1s;
+
+}
+
+.join-button:hover {
+    background-color: rgb(49, 160, 194);
+    color: rgb(224, 231, 235);
+}
+
+.join-button:active{
+    opacity:0.7;
+}
+
+.req-now{
+    background-color: rgb(3, 3, 3);
+    height: 35px;
+    width: 110px;
+    color: white;
+    border: none;
+    border-radius: none;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+
+}
+
+.signup{
+    background-color: rgb(46, 0164, 79);
+    height: 35px;
+    width: 105px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    box-shadow: 5px 5px 10px rgb(196, 194, 194) ;
+
+}
+
+.get-started{
+    background-color: rgb(121, 82, 179);
+    height: 35px;
+    width: 120px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 12px;
+    margin-bottom: 12px;
+
+}
+
+.get-started:hover{
+    background-color: rgb(121, 82, 179);
+    color: white;
+}
+    
+
+.get-started:active{
+    opacity:0.7;
+}
+
+.download{
+    background-color: white;
+    height: 35px;
+    width: 105px;
+    color: rgb(108, 117, 125);
+    border: rgb(108, 117, 125);
+    border-style: solid;
+    border-color: rgb(108, 117, 125);
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 12px;
+    margin-bottom: 12px;
+
+}
+
+.download:active{
+    color:white;
+    background-color: rgb(108, 117, 125);
+}
+.apply{
+    background-color: rgb(9, 135, 194);
+    height: 35px;
+    width: 220px;
+    color: white;
+    border: none;
+    border-radius: 17.5px;
+    cursor: pointer;
+    margin-bottom: 12px;
+
+
+}
+
+.apply:hover{
+    opacity:0.4;
+}
+
+.save{
+    background-color: rgb(255, 255, 255);
+    height: 35px;
+    width: 80px;
+    color: rgb(49, 160, 194);
+    border-color: rgb(49, 160, 194);
+    border-style:solid;
+    border-radius: 17.5px;
+    cursor: pointer;
+    margin-left: 12px;
+    margin-bottom: 12px;
+
+}
+.save:hover{
+    color: rgb(49, 160, 194);
+    background-color: rgb(255, 255, 255);
+}
